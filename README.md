@@ -1,44 +1,38 @@
-# BrightTech Landing Page
+# BrightTech Landing Page  
 
-Bienvenido al repositorio del proyecto **BrightTech Landing Page**, una página web diseñada para una empresa ficticia llamada BrightTech. Este proyecto es una tarea de desarrollo web para crear una página de inicio visualmente atractiva utilizando las mejores prácticas de herramientas y metodologías.
-
----
-
-## 📝 Descripción del Proyecto
-
-Este proyecto consiste en desarrollar una página de inicio sencilla que incluye las siguientes secciones:
-
-- **Encabezado**: con un diseño degradado de azul a verde.
-- **Sección Principal**: información sobre la empresa con estilos tipográficos específicos.
-- **Lista de Productos**: con bordes redondeados y sombras para un diseño limpio.
-- **Pie de Página**: para la información adicional.
-
-Además, utilizamos un preprocesador CSS para implementar estilos avanzados y optimizar el flujo de trabajo.
+**BrightTech Landing Page** es una página web diseñada para una empresa ficticia. Este proyecto utiliza técnicas modernas de desarrollo web para crear una experiencia visual atractiva, aprovechando herramientas avanzadas como Sass y siguiendo las mejores prácticas de desarrollo.  
 
 ---
 
-## 📋 Requisitos del Proyecto
+## ✨ Características  
 
-1. **Estilos CSS Avanzados**:
-   - Encabezado con fondo degradado de azul a verde.
-   - Texto en la sección principal con la fuente Arial y tamaño de 16px.
-   - Lista de productos con bordes redondeados y sombra.
+- **Diseño Visual Atractivo**:  
+  - Encabezado con un fondo degradado de azul a verde.  
+  - Texto estilizado con fuentes específicas y tamaños adecuados.  
+  - Lista de productos con bordes redondeados y sombras sutiles.  
 
-2. **Uso de Herramientas de Desarrollo**:
-   - Uso de **Sass** para definir variables y anidar reglas de estilo:
-     - Variable para el color principal aplicada al fondo del encabezado.
-     - Reglas de estilo anidadas para el texto del encabezado y la lista de productos.
+- **Optimización con Sass**:  
+  - Uso de variables para la gestión de colores y estilos.  
+  - Anidación de reglas CSS para mejorar la organización del código.  
 
-3. **Metodologías de Desarrollo**:
-   - Utilización de Git para gestionar el desarrollo.
+- **Metodologías de Desarrollo**:  
+  - Gestión de código fuente mediante Git y GitHub.  
+  - Uso de ramas para desarrollo de características de forma aislada.  
 
 ---
 
-## 🚀 Cómo Ejecutar el Proyecto
+## 🎯 Objetivo  
 
-### Prerrequisitos
-- [Node.js](https://nodejs.org/) instalado.
-- [Git](https://git-scm.com/) instalado.
-- Preprocesador **Sass** instalado globalmente:
+Este proyecto tiene como objetivo mostrar el diseño de una página web sencilla para una pequeña empresa ficticia, aplicando conceptos clave de diseño y desarrollo web, y sirviendo como referencia para la implementación de buenas prácticas.  
+
+---
+
+## 🚀 Instalación y Uso  
+
+### Prerrequisitos  
+Antes de comenzar, asegúrate de tener instalado:  
+- [Node.js](https://nodejs.org/)  
+- [Git](https://git-scm.com/)  
+- Preprocesador **Sass**, que puedes instalar ejecutando:  
   ```bash
   npm install -g sass
