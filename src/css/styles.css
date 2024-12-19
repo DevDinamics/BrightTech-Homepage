@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+
+/*==================== GENERAL ====================*/
+body {
+    font-family: "Nunito", serif;
+    margin: 0;
+    padding: 0;
+}
+
+/*==================== HEADER ====================*/
+header {
+    background: linear-gradient(to right, #3030e7, #44ae44); 
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 30px;
+}
+
+h2{
+    font-size: 25px;
+}
+/*==================== SECTION ====================*/
+main {
+    padding: 20px;
+}
+
+#about p {
+    font-size: 15px;
+}
+
+/*==================== PRODUCTS ====================*/
+
+#products ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#products li {
+    background-color: #e3e3e3;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 5px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+/*==================== FOOTER ====================*/
+
+footer {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
